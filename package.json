@@ -1,0 +1,23 @@
+{
+  "name": "yurest",
+  "version": "1.0.0",
+  "description": "Sozialmedia for Discord",
+  "main": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teshi9459/Yurest.git"
+  },
+  "author": "Teshi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/teshi9459/Yurest/issues"
+  },
+  "homepage": "https://github.com/teshi9459/Yurest#readme",
+  "dependencies": {
+    "discord.js": "^14.0.3",
+    "ms": "^2.1.3"
+  }
+}

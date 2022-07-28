@@ -1,4 +1,7 @@
 DB:
+Server
+-id
+-channel
 
 User
 -name
